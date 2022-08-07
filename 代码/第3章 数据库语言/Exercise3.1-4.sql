@@ -1,0 +1,1 @@
+select(select count(*) from borrowed)/ (select count(*)from member)  

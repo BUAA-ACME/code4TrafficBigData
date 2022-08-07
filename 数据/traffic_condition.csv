@@ -1,0 +1,9 @@
+weather_type,time,holiday,road_quality,special_weather,traffic_condition
+sunny,peak_hour,yes,good,no,good
+sunny,non_peak_hour,yes,bad,yes,bad
+sunny,non_peak_hour,no,good,yes,good
+sunny,non_peak_hour,no,good,no,good
+rainy,non_peak_hour,no,good,no,good
+rainy,non_peak_hour,no,good,yes,good
+foggy,non_peak_hour,no,good,yes,bad
+snowy,non_peak_hour,no,good,yes,bad
